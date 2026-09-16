@@ -1,6 +1,6 @@
 # Kanban Board
 
-This is my final project for my Data Structures course. The objective of the project was to create an application that met a specific set of criteria. 
+The objective of the project was to create an application that met a specific set of criteria. 
 
 I chose to design a Kanban Board where students can keep track of various tasks, such as Assignments and Study Sessions. The board includes the following buttons: 
 
